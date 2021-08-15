@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Pridi&display=swap');
+* {
+  font-family: 'Pridi', serif;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.bg-pink {
+  background-color: #F700FF;
+}
+.color-black {
+  color: black;
+}
+.exa:hover {
+  background-color: #676767;
+}
+body {
+  background-color: #181a1b;
+  color: silver;
+}
+.text-putih {
+  color: #fff;
+}
+.title{
+  padding: 10px;
+  width: 100%;
+  background-color: #F700FF;
+  color: white;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 2%;
+}
+.mt-30 {
+  margin-top: 20%;
+}
+#ScrollUpButton {
+  display: none;
+  position: fixed;
+  border: none;
+  color: white;
+  background: #3a3a3a;
+  bottom: 20px;
+  right: 30px;
+  padding: 12px;
+  border-radius: 4px;
+  width: 50px;
+}
+.hovit:hover {
+  background-color: #007AFF;
+  color: white;
+  border-radius: 2%;
+}
+footer {
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 100%;
+  padding: 20px;
+}
+.ft-13 {
+  font-size: 13px;
+}
+.bod {
+  border: none;
+}
+.eg {
+  background-color: #181a1b;
+  border: 1px solid white;
+  color: #fff;
+  height: 20%;
+  padding: 10px;
+  border-radius: 2%;
+  text-align: left;
+}
+.eg a {
+  color: white;
+}
+.pjg {
+  width: 100%;
+}
+.bg-bod {
+  background-color: #181a1b;
+}
+.bg-brd {
+  background-color: #2b2b2b;
+  color: silver;
+}
+.tks-mono {
+  font-family: Sans-Serif;
+}
