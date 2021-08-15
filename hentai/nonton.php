@@ -74,7 +74,7 @@
   <p class="text-center">Share video ini ke teman anda dengan klik <a href="whatsapp://send?text=<?= $judult." ".$ssl.$url."/hentai/nonton.php?name=".$name; ?>" target="_blank"><i>Share</i></a></p>
   </div>
   <footer>
-    <span>Made By With ❤️ <a href="https://github.com/hekelpro" target="_blank">RizkyDev</a></span>
+    <span>Made By With ❤️ <a href="https://github.com/Shelly-XD" target="_blank">Shelly</a></span>
   </footer>
   <button id="ScrollUpButton" onclick="FunctScroll()"><i class="fas fa-chevron-circle-up"></i></button>
   <script src="../js/scroll-up.js"></script>
