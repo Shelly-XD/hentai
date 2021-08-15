@@ -16,7 +16,7 @@
       <div class="navbar-nav tks-mono">
         <a href="<?= $ssl.$url; ?>" class="nav-item nav-link tks-mono active"><i class="fas fa-home"></i> Home</a>
         <a href="<?= $ssl.$url.'/hentai'; ?>" class="nav-item tks-mono nav-link active"><i class="fas fa-cat"></i> Hentai</a>
-        <a href="https://saweria.co/RizkyDev" target="_blank" class="nav-item tks-mono nav-link active"><i class="fas fa-donate"></i> Donate</a>
+        <a href="https://www.facebook.com/shubham.vishwakrma.3532" target="_blank" class="nav-item tks-mono nav-link active"><i class="fas fa-donate"></i> Donate</a>
       </div>
     </div>
   </nav>
