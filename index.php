@@ -8,7 +8,7 @@ include("simple_html_dom.php");
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Nonton Anime 18+ dengan subtitle Indonesia">
     <meta name="keywords" content="hentai, anime, 2D, anime2D, 2d">
-    <title>KawaiDesu - Nonton hentai subtitle Indonesia</title>
+    <title>Shelly - Nonton hentai subtitle Indonesia</title>
     <link rel="shortcut icon" type="image/gif" href="img/icon.gif">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style-me.css">
@@ -21,7 +21,7 @@ include("simple_html_dom.php");
   <?php include("navbar/navbar.php"); ?>
   <div class="container mt-4 mb-4">
     <div class="alert alert-warning alert-dismissible fade show">
-      <strong><i class="fas fa-exclamation-circle"></i> Warning!</strong> <br><br>KawaiDesu ini berisikan Konten Dewasa. Jadi, bagi anda yg merasa belum cukup umur (18+) dimohon untuk tidak men-download dan membuka situs ini.
+      <strong><i class="fas fa-exclamation-circle"></i> Warning!</strong> <br><br>Shelly Wangy Wangy WANGY PELUK PELUK PELUK AHHH AHHH SHELLY WANGY WANGY WANGY AHHH SHELLY WANGY WANGY.
     </div>
     <div class="hentai mt-4 mb-4">
       <div class="list-hentai">
