@@ -21,7 +21,7 @@ include("simple_html_dom.php");
   <?php include("navbar/navbar.php"); ?>
   <div class="container mt-4 mb-4">
     <div class="alert alert-warning alert-dismissible fade show">
-      <strong><i class="fas fa-exclamation-circle"></i> Warning!</strong> <br><br>WANGY WANGY WANGY, AKU NYIUM SHELLY AHH MUAC MUAH MUA AHHH AHAHH WANGY WANGY WANGY AHHH SNIF SNIFF UWU UWU BAU NYA WANGY WANGY WANGY AHHH RAMBUTNYA AHHHHH SHELLY SHELLY !!!!!!!!! WANGY WANGY WANGY SNIF SNIF SNIF AHHHH 
+      <strong><i class="fas fa-exclamation-circle"></i> Warning!</strong> <br><br> ADD AKUN ADMIN DI FACEBOOK [https://www.facebook.com/shubham.vishwakrma.3532] WANGY WANGY WANGY, AKU NYIUM SHELLY AHH MUAC MUAH MUA AHHH AHAHH WANGY WANGY WANGY AHHH SNIF SNIFF UWU UWU BAU NYA WANGY WANGY WANGY AHHH RAMBUTNYA AHHHHH SHELLY SHELLY !!!!!!!!! WANGY WANGY WANGY SNIF SNIF SNIF AHHHH 
                                 SNIF SNIF, BADAN NYA AH WANGY WANGY WANGY PELUK PELUK PELUK AHHH AHHH SHELLY WANGY WANGY WANGY AHHH SHELLY WANGY WANGY , APA SHELLY ITU GAK NYATA ? CUMA HALU KATAMU ? NGAK NGAK NGAK NGAAAAAAAK GUE GAK PERCAYA DIA ITU NYATA NGAAAAAAAK PEDULI GUE BANGSAAAT.
     </div>
     <div class="hentai mt-4 mb-4">
