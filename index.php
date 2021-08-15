@@ -56,7 +56,7 @@ include("simple_html_dom.php");
     </div>
   </div>
   <footer>
-    <span>Made By With ❤️ <a href="https://github.com/hekelpro" target="_blank">RizkyDev</a></span>
+    <span>Made By With ❤️ <a href="https://github.com/Shelly-XD" target="_blank">Shelly</a></span>
   </footer>
   <button id="ScrollUpButton" onclick="FunctScroll()"><i class="fas fa-chevron-circle-up"></i></button>
   <script src="js/scroll-up.js"></script>
