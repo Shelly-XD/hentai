@@ -4,7 +4,7 @@
   if (empty($_GET)){
     header("Location: ../hentai");
   }
-  $ht = str_get_html(file_get_contents("http://209.126.6.6/".$_GET["id"]));
+  $ht = str_get_html(file_get_contents("https://manhwaland.top/".$_GET["id"]));
   
   function ambil_gambar(){
     global $ht;
@@ -69,7 +69,7 @@
 			      $b = $ti->plaintext;
 		      }
 		      ?>
-          <a href="nonton.php?name=<?php $cut = str_replace("http://209.126.6.6/", "", $li->href); echo $cut; ?>"><h6><span class="text-left"><?= $a; ?>.</span> <span class="text-center"><?= $b; ?></span></h6></a><br>
+          <a href="nonton.php?name=<?php $cut = str_replace("https://manhwaland.top/", "", $li->href); echo $cut; ?>"><h6><span class="text-left"><?= $a; ?>.</span> <span class="text-center"><?= $b; ?></span></h6></a><br>
 		      <?php
 	      }
       }
