@@ -40,13 +40,13 @@
       <div class="list-hentai">
         <div class="row mt-2">
           <?php
-            $html = str_get_html(file_get_contents("http://209.126.6.6/series/?page=".$step."&status=&type=&order=update"));
+            $html = str_get_html(file_get_contents("https://manhwaland.top/series/?page=".$step."&status=&type=&order=update"));
             foreach($html->find("div[class=bsx]") as $bsx){
               foreach($bsx->find("a") as $hrf){
                 foreach($bsx->find("img") as $gbr){
                   ?>
                   <div class="card ml-4 mt-4 bg-dark" style="width: 142px;">
-                    <a href="info.php?id=<?php $cet=str_replace("http://209.126.6.6/", "", $hrf->href); echo $cet; ?>">
+                    <a href="info.php?id=<?php $cet=str_replace(https://manhwaland.top/", "", $hrf->href); echo $cet; ?>">
                       <img class="card-img-top" src="<?= $gbr->src; ?>" alt="hentai" />
                       <div class="card-body text-left bg-dark">
                         <p class="card-text text-putih"><?= $hrf->title; ?></p>
