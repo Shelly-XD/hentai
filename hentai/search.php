@@ -6,9 +6,9 @@
   }
 
   if (empty($_GET["nx"])){
-    $urll = "http://209.126.6.6/?s=".$_GET["q"];
+    $urll = "https://nekopoi.care/?s=".$_GET["q"];
   }else {
-    $urll = "http://209.126.6.6/page/".$_GET["nx"]."/?s=".$_GET["q"];
+    $urll = "https://nekopoi.care/page/".$_GET["nx"]."/?s=".$_GET["q"];
   }
 ?>
 <!DOCTYPE html>
@@ -52,7 +52,7 @@
                 foreach($bsx->find("img") as $gbr){
                   ?>
                   <div class="card ml-4 mt-4 bg-dark" style="width: 142px;">
-                    <a href="info.php?id=<?php $cet=str_replace("http://209.126.6.6/", "", $hrf->href); echo $cet; ?>">
+                    <a href="info.php?id=<?php $cet=str_replace("https://nekopoi.care/", "", $hrf->href); echo $cet; ?>">
                       <img class="card-img-top" src="<?= $gbr->src; ?>" alt="hentai" />
                       <div class="card-body text-left bg-dark">
                         <p class="card-text text-putih"><?= $hrf->title; ?></p>
@@ -72,14 +72,14 @@
       <?php
         foreach ($html->find("div[class=pagination]") as $got){
           foreach ($html->find("a[class=prev page-numbers]") as $gui){
-            $agiy = str_replace(array("http://209.126.6.6/page/","/?s=".$_GET["q"]), array("",""), $gui->href);
+            $agiy = str_replace(array("https://nekopoi.care/page/","/?s=".$_GET["q"]), array("",""), $gui->href);
             $hox = $_GET["q"];
             ?>
               <li class="page-item"><a href="search.php?nx=<?= $agiy; ?>&q=<?= $hox; ?>" class="page-link">Previous</a></li>
             <?php
           }
           foreach($got->find("a[class=next page-numbers]") as $gut){
-            $goy = str_replace(array("http://209.126.6.6/page/","/?s=".$_GET["q"]), array("",""), $gut->href);
+            $goy = str_replace(array("https://nekopoi.care/page/","/?s=".$_GET["q"]), array("",""), $gut->href);
             $hox = $_GET["q"];
             ?>
               <li class="page-item"><a href="search.php?nx=<?= $goy; ?>&q=<?= $hox; ?>" class="page-link">Next</a></li>
