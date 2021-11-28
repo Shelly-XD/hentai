@@ -33,7 +33,7 @@
     </div>
     <div class="card border-0">
       <?php
-      $ht = str_get_html(file_get_contents("http://209.126.6.6/".$name));
+      $ht = str_get_html(file_get_contents("https://nekopoi.care/".$name));
       foreach($ht->find("iframe[height=100%]") as $vid){
 	      $ved = $vid->src;
       }
